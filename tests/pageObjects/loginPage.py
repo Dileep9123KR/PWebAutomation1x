@@ -48,3 +48,6 @@ class loginPage():
 
     # def click_freeTrail(self):
     #     self.get_free_trail_btn().click()
+
+    def get_error_message_text(self):
+        return self.get_error_message().text
