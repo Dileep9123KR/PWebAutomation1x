@@ -1,0 +1,38 @@
+7
+3
+//table[contains(@id,'custo')]//tbody/tr[2]/td[1]
+<selenium.webdriver.remote.webelement.WebElement (session="f74f67c4-eefd-49b9-b33c-f39fa5a36e2f", element="39ba1bd9-9e5c-4741-aaca-aea4233b1f26")>
+//table[contains(@id,'custo')]//tbody/tr[2]/td[2]
+<selenium.webdriver.remote.webelement.WebElement (session="f74f67c4-eefd-49b9-b33c-f39fa5a36e2f", element="275546bb-c88e-4863-a614-3d1cb3d87019")>
+//table[contains(@id,'custo')]//tbody/tr[2]/td[3]
+<selenium.webdriver.remote.webelement.WebElement (session="f74f67c4-eefd-49b9-b33c-f39fa5a36e2f", element="d8435521-0d56-4656-931d-43adbacbbcb1")>
+//table[contains(@id,'custo')]//tbody/tr[3]/td[1]
+<selenium.webdriver.remote.webelement.WebElement (session="f74f67c4-eefd-49b9-b33c-f39fa5a36e2f", element="c09c2e40-f4e8-4da4-9031-d02776675c7f")>
+//table[contains(@id,'custo')]//tbody/tr[3]/td[2]
+<selenium.webdriver.remote.webelement.WebElement (session="f74f67c4-eefd-49b9-b33c-f39fa5a36e2f", element="648c80a8-0773-4505-afee-4fadb33f713a")>
+//table[contains(@id,'custo')]//tbody/tr[3]/td[3]
+<selenium.webdriver.remote.webelement.WebElement (session="f74f67c4-eefd-49b9-b33c-f39fa5a36e2f", element="f4ac15cb-14c3-4fdd-9bb8-9574613155bc")>
+//table[contains(@id,'custo')]//tbody/tr[4]/td[1]
+<selenium.webdriver.remote.webelement.WebElement (session="f74f67c4-eefd-49b9-b33c-f39fa5a36e2f", element="3443afd5-bf42-4c06-9e21-a14edb9893d9")>
+//table[contains(@id,'custo')]//tbody/tr[4]/td[2]
+<selenium.webdriver.remote.webelement.WebElement (session="f74f67c4-eefd-49b9-b33c-f39fa5a36e2f", element="bbf0acb2-eff5-4e47-b6e7-773953153025")>
+//table[contains(@id,'custo')]//tbody/tr[4]/td[3]
+<selenium.webdriver.remote.webelement.WebElement (session="f74f67c4-eefd-49b9-b33c-f39fa5a36e2f", element="2ab57963-51fd-4605-8358-2d643dc97dd0")>
+//table[contains(@id,'custo')]//tbody/tr[5]/td[1]
+<selenium.webdriver.remote.webelement.WebElement (session="f74f67c4-eefd-49b9-b33c-f39fa5a36e2f", element="cc17f008-407b-43cc-99f2-f0c1009af88f")>
+//table[contains(@id,'custo')]//tbody/tr[5]/td[2]
+<selenium.webdriver.remote.webelement.WebElement (session="f74f67c4-eefd-49b9-b33c-f39fa5a36e2f", element="882199af-13a0-451b-9781-4d56a6d341bf")>
+//table[contains(@id,'custo')]//tbody/tr[5]/td[3]
+<selenium.webdriver.remote.webelement.WebElement (session="f74f67c4-eefd-49b9-b33c-f39fa5a36e2f", element="a0b2e9fd-baf5-4b16-806f-5bbcbd69c4a6")>
+//table[contains(@id,'custo')]//tbody/tr[6]/td[1]
+<selenium.webdriver.remote.webelement.WebElement (session="f74f67c4-eefd-49b9-b33c-f39fa5a36e2f", element="a695e21d-a15e-4931-99fc-290635ac758d")>
+//table[contains(@id,'custo')]//tbody/tr[6]/td[2]
+<selenium.webdriver.remote.webelement.WebElement (session="f74f67c4-eefd-49b9-b33c-f39fa5a36e2f", element="a3bec5ba-a9bf-4eca-bf88-3be4ccd6eb29")>
+//table[contains(@id,'custo')]//tbody/tr[6]/td[3]
+<selenium.webdriver.remote.webelement.WebElement (session="f74f67c4-eefd-49b9-b33c-f39fa5a36e2f", element="bba2247b-81b6-4427-a41b-b9b90bbcbd5b")>
+//table[contains(@id,'custo')]//tbody/tr[7]/td[1]
+<selenium.webdriver.remote.webelement.WebElement (session="f74f67c4-eefd-49b9-b33c-f39fa5a36e2f", element="c5970f10-8c11-4c91-93f0-9c06f07e8a4c")>
+//table[contains(@id,'custo')]//tbody/tr[7]/td[2]
+<selenium.webdriver.remote.webelement.WebElement (session="f74f67c4-eefd-49b9-b33c-f39fa5a36e2f", element="8982cf49-841f-4f03-a729-914d3b35a319")>
+//table[contains(@id,'custo')]//tbody/tr[7]/td[3]
+<selenium.webdriver.remote.webelement.WebElement (session="f74f67c4-eefd-49b9-b33c-f39fa5a36e2f", element="efbe4895-2145-48d0-b249-2f7a77f84aed")>

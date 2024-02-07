@@ -1,0 +1,38 @@
+7
+3
+//table[contains(@id,'custo')]//tbody/tr[2]/td[1]
+Google
+//table[contains(@id,'custo')]//tbody/tr[2]/td[2]
+Maria Anders
+//table[contains(@id,'custo')]//tbody/tr[2]/td[3]
+Germany
+//table[contains(@id,'custo')]//tbody/tr[3]/td[1]
+Meta
+//table[contains(@id,'custo')]//tbody/tr[3]/td[2]
+Francisco Chang
+//table[contains(@id,'custo')]//tbody/tr[3]/td[3]
+Mexico
+//table[contains(@id,'custo')]//tbody/tr[4]/td[1]
+Microsoft
+//table[contains(@id,'custo')]//tbody/tr[4]/td[2]
+Roland Mendel
+//table[contains(@id,'custo')]//tbody/tr[4]/td[3]
+Austria
+//table[contains(@id,'custo')]//tbody/tr[5]/td[1]
+Island Trading
+//table[contains(@id,'custo')]//tbody/tr[5]/td[2]
+Helen Bennett
+//table[contains(@id,'custo')]//tbody/tr[5]/td[3]
+UK
+//table[contains(@id,'custo')]//tbody/tr[6]/td[1]
+Adobe
+//table[contains(@id,'custo')]//tbody/tr[6]/td[2]
+Yoshi Tannamuri
+//table[contains(@id,'custo')]//tbody/tr[6]/td[3]
+Canada
+//table[contains(@id,'custo')]//tbody/tr[7]/td[1]
+Amazon
+//table[contains(@id,'custo')]//tbody/tr[7]/td[2]
+Giovanni Rovelli
+//table[contains(@id,'custo')]//tbody/tr[7]/td[3]
+Italy
